@@ -1,0 +1,31 @@
+.id2{
+    font-weight: 900;
+}
+.box{
+    background-color: red;
+    color: white;
+    border: none;
+}
+.id3{
+    background-color:red;
+    border: none;
+    color: white;
+    width: 70px;
+}
+.id4{
+    height: 50px;
+    width: 60px;
+}
+img{
+    height:250px;
+    width: 250px;
+    margin-right: 50px;
+
+}
+.id5>img{
+    height: 40px;
+    width: 50px;
+    
+}
+
+
